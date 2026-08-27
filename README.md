@@ -1,6 +1,6 @@
-# Hi 👋, I'm Prince Kumar
+# Hi 👋, I'm Prince Kumar(3rd YEAR)
 
-### B.Tech CSE Student at IIIT Kottayam
+### B.Tech CSE Student at IIIT Kottayam 
 
 🚀 Passionate about Machine Learning, Deep Learning, Generative AI,and Full Stack Development.
 
