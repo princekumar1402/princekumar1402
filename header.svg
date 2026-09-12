@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1">
+      <stop offset="0%" stop-color="#3f51b5"/>
+      <stop offset="100%" stop-color="#159a9c"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="300" rx="18" fill="#10151c"/>
+  <path d="M0 0H1200V245C970 220 780 235 610 255C380 282 190 240 0 215Z" fill="url(#g)"/>
+  <path d="M0 0H1200V28H0Z" fill="#111827" opacity=".18"/>
+  <text x="600" y="118" text-anchor="middle" fill="white" font-family="Arial, Helvetica, sans-serif" font-size="64" font-weight="700">Prince Kumar</text>
+  <text x="600" y="170" text-anchor="middle" fill="white" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700">AI Engineer | LLMs • RAG • Agentic AI</text>
+  <text x="600" y="210" text-anchor="middle" fill="#e0f2fe" font-family="Arial, Helvetica, sans-serif" font-size="18">B.Tech CSE • IIIT Kottayam • Full-Stack AI Systems</text>
+</svg>
